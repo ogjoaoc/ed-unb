@@ -1,2 +1,2 @@
 # ed-unb
-ed-unb-23.2
+UnB 2023.2 Data Structures repository.
